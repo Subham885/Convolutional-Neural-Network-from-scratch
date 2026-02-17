@@ -1,0 +1,37 @@
+-------Epoch 1-------
+[Step 500] Past 500 Steps: Average Loss 1.68 | Accuracy 43.6%
+[Step 1000] Past 500 Steps: Average Loss 0.75 | Accuracy 75.6%
+[Step 1500] Past 500 Steps: Average Loss 0.6 | Accuracy 82.2%
+[Step 2000] Past 500 Steps: Average Loss 0.51 | Accuracy 84.6%
+[Step 2500] Past 500 Steps: Average Loss 0.46 | Accuracy 85.0%
+[Step 3000] Past 500 Steps: Average Loss 0.43 | Accuracy 86.2%
+[Step 3500] Past 500 Steps: Average Loss 0.44 | Accuracy 84.8%
+[Step 4000] Past 500 Steps: Average Loss 0.41 | Accuracy 88.0%
+[Step 4500] Past 500 Steps: Average Loss 0.42 | Accuracy 89.0%
+[Step 5000] Past 500 Steps: Average Loss 0.33 | Accuracy 89.2%
+-------Epoch 2-------
+[Step 500] Past 500 Steps: Average Loss 0.33 | Accuracy 90.4%
+[Step 1000] Past 500 Steps: Average Loss 0.33 | Accuracy 90.4%
+[Step 1500] Past 500 Steps: Average Loss 0.38 | Accuracy 88.6%
+[Step 2000] Past 500 Steps: Average Loss 0.3 | Accuracy 89.2%
+[Step 2500] Past 500 Steps: Average Loss 0.31 | Accuracy 89.2%
+[Step 3000] Past 500 Steps: Average Loss 0.33 | Accuracy 91.0%
+[Step 3500] Past 500 Steps: Average Loss 0.33 | Accuracy 90.4%
+[Step 4000] Past 500 Steps: Average Loss 0.31 | Accuracy 90.8%
+[Step 4500] Past 500 Steps: Average Loss 0.33 | Accuracy 89.4%
+[Step 5000] Past 500 Steps: Average Loss 0.28 | Accuracy 92.0%
+-------Epoch 3-------
+[Step 500] Past 500 Steps: Average Loss 0.23 | Accuracy 93.2%
+[Step 1000] Past 500 Steps: Average Loss 0.26 | Accuracy 92.4%
+[Step 1500] Past 500 Steps: Average Loss 0.32 | Accuracy 90.4%
+[Step 2000] Past 500 Steps: Average Loss 0.26 | Accuracy 93.4%
+[Step 2500] Past 500 Steps: Average Loss 0.27 | Accuracy 91.8%
+[Step 3000] Past 500 Steps: Average Loss 0.26 | Accuracy 93.0%
+[Step 3500] Past 500 Steps: Average Loss 0.25 | Accuracy 92.6%
+[Step 4000] Past 500 Steps: Average Loss 0.27 | Accuracy 91.2%
+[Step 4500] Past 500 Steps: Average Loss 0.21 | Accuracy 94.2%
+[Step 5000] Past 500 Steps: Average Loss 0.24 | Accuracy 93.8%
+
+--- Testing the CNN ---
+Test Loss: 0.30330358291023835
+Test Accuracy: 0.91
